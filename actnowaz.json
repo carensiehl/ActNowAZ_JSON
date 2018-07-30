@@ -33,5 +33,12 @@
 		"report": "This is a longer description of what the fifth activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
 		"date": "2018-07-31",
 		"imageURL": "https://farm1.staticflickr.com/919/42660788884_fdb60c5f39.jpg"
+	},
+	{
+		"title": "Sixth Activity",
+		"description": "This is the sixth activity!",
+		"report": "This is a longer description of what the fifth activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
+		"date": "2018-07-31",
+		"imageURL": "https://farm1.staticflickr.com/919/42660788884_fdb60c5f39.jpg"
 	}
 ]
