@@ -1,51 +1,17 @@
 [
-    {
-		"title": "First Activity",
-		"description": "This is the first activity.",
-		"report": "This is a longer description of what the first activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
-		"date": "2018-07-18",
-		"imageURL": "https://farm2.staticflickr.com/1803/29421292618_49311ed199.jpg"
-	},
-	{
-		"title": "Second Activity",
-		"description": "This is the second activity.",
-		"report": "This is a longer description of what the second activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
-		"date": "2018-07-11",
-		"imageURL": "https://farm2.staticflickr.com/1826/41480642920_a8bfa15aca.jpg"
-	},
-	{
-		"title": "Third Activity",
-		"description": "This is the third activity.",
-		"report": "This is a longer description of what the third activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
-		"date": "2018-07-12",
-		"imageURL": "https://farm2.staticflickr.com/1826/41480642920_a8bfa15aca.jpg"
-	},
-	{
-		"title": "Fourth Activity",
-		"description": "This is the fourth activity.",
-		"report": "This is a longer description of what the fourth activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
-		"date": "2022-08-31",
-		"imageURL": "https://farm2.staticflickr.com/1764/41481406750_fd13d81262.jpg"
-	},
-	{
-		"title": "Fifth Activity",
-		"description": "This is the fifth activity",
-		"report": "This is a longer description of what the fifth activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
-		"date": "2018-07-31",
-		"imageURL": "https://farm1.staticflickr.com/919/42660788884_fdb60c5f39.jpg"
-	},
-	{
-		"title": "Sixth Activity",
-		"description": "This is the sixth activity!",
-		"report": "This is a longer description of what the fifth activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
-		"date": "2018-08-04",
-		"imageURL": "https://farm1.staticflickr.com/919/42660788884_fdb60c5f39.jpg"
-	},
+   		
 	{
 		"title": "Voter Registration",
-		"description": "Volunteer ot register voters",
-		"report": "This is a longer description of what the fifth activity is all about, giving details that aren't limited to a single sentence description. Here, more interested users may read about certain things that may prove useful when they show up to the activity, words that may be encouraging to activists.",
-		"date": "2018-08-10",
-		"imageURL": "https://farm1.staticflickr.com/919/42660788884_fdb60c5f39.jpg"
+		"description": "Volunteer to register voters",
+		"report": "Contact the Maricopa County Democratic Party at https://www.maricopadems.org/ or (602)-298-0503 for volunteer opportunities. Even a few hours will make a difference.",
+		"date": "2018-08-01",
+		"imageURL": "https://farm2.staticflickr.com/1826/41480642920_a8bfa15aca.jpg"
+	},
+	{
+		"title": "Vote in the Primary",
+		"description": "Mail-in ballots have dropped.",
+		"report": "If you are on the Early Vote list, be looking for your mail-in ballot. And, return it within 48 hours",
+		"date": "2018-08-02",
+		"imageURL": "https://farm2.staticflickr.com/1826/41480642920_a8bfa15aca.jpg"
 	}
 ]
