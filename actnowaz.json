@@ -79,10 +79,19 @@
 	"link": "https://events.mobilizeamerica.io/dnc/event/40453/?refcode=em_20181021_dnc2_dis&source=em_20181021_dnc2_dis&utm_campaign=20181021_dnc_dis",
 	"phone": ""
 }, {
+	"title": "#VotingSquad",
+	"description": "Help our friends and neighbors to vote.",
+	"report": "The #VotingSquad initiative encourages people to put together a five-person “squad” that will encourage everyone in the group to vote by Nov. 6. As the leader of the squad, it’s up to you to make sure these people are ready to vote. Challenge 3 - 5 others to form their own voting squads. Click on the link above and get started.",
+	"date": "2018-10-30",
+	"imageURL":
+"https://farm2.staticflickr.com/1845/44117768891_8ec850e055.jpg",
+	"link": "https://action.whenweallvote.org/page/s/create-your-voting-squad",
+	"phone": ""
+}, {
         "title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2018 and 2020. Open the App and you will have your idea for the week. And, the ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2018-10-23",
+	"date": "2018-10-30",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
