@@ -1,12 +1,4 @@
 [{
-        "title": "Voter Registration",
-	"description": "Volunteer to register voters",
-	"report": "Contact the Maricopa County Democratic Party at https://www.maricopadems.org/ or (602)-298-0503 for volunteer opportunities. Click on the link or phone icon above. Even a few hours will make a difference.",
-	"date": "2018-09-18",
-	"imageURL": "https://farm2.staticflickr.com/1852/43210716725_2d351faaf1.jpg",
-	"link": "https://www.maricopadems.org/",
-	"phone": "6022980503"
-}, {
 	"title": "Join AZ DLCC",
 	"description": "Help elect Democrats in the AZ House and Senate.",
 	"report": "Republicans control both chambers of the AZ state legislature, but we're here to change that. Click on the link above and sign up today. Every seat in the State Legislature is up for election and Democrats are just three seats away from taking back control of the State Senate.",
@@ -55,28 +47,12 @@
 	"link": "https://www.eventbrite.com/e/candidate-mark-kelly-presented-by-indivisibles-of-arizona-tickets-61259048463?aff=eemailordconf&utm_campaign=order_confirm&ref=eemailordconf&utm_medium=email&utm_source=eb_email&utm_term=viewevent",
 	"phone": ""
 }, {
-	"title": "AZ Budget Wins",
-	"description": "Stay Informed!",
-	"report": "We made a difference! The legislators listened. They read our Request to Speaks. They got the phone calls. Read this summary. And, get ready for the Fall!",
-	"date": "2019-06-04",
-	"imageURL": "https://farm2.staticflickr.com/1818/29179844047_5622908f08.jpg",
-	"link": "https://docs.google.com/document/d/16o0MBeRvcPzqhFoXc37awIhEKRinkTJBuhpw17Q710c/edit?fbclid=IwAR2q0Nwp0HMzIjQuuoxmX9QunNzMjgkiJFJrakXVW8VuSnKCt-SppcSLgEE",
-	"phone": ""
-}, {
 	"title": "Outlaw Dirty Money",
 	"description": "Sign a petition.",
 	"report": "Outlaw Dirty Money is back. We're working to ensure all Arizonans have a right to know who is paying to influence our elections. We need your help to get on the ballot in 2020! Go to this website to find where you can sign a petition. And, can you take a petition to gather signatures?",
 	"date": "2019-06-11",
 	"imageURL": "https://farm2.staticflickr.com/1845/44117768891_8ec850e055.jpg",
 	"link": "https://outlawdirtymoney.com/sign-the-petition/",
-	"phone": ""
-}, {
-	"title": "Vote NO:105 & 106",
-	"description": "Defeat Props 105 and 106.",
-	"report": "If you are on the permanent early voting list (PEVL),a ballot was mailed to you last Wednesday.In-person early voting for this election is available on the 15th floor of Phoenix City Hall (200 W. Washington Street, Phoenix 85003) until Friday, August 23, 2019.Take action-Vote NO.Click on the link and get the facts to defeat 105 & 106.",
-	"date": "2019-08-06",
-	"imageURL": "https://live.staticflickr.com/65535/48464132861_57e43a9259_z.jpg",
-	"link": "https://investinphx.org",
 	"phone": ""
 }, {
 	"title": "Flip Arizona",
@@ -95,14 +71,6 @@
 	"link": "https://votefwd.org",
 	"phone": ""
 }, {
-	"title": "Vote NO:105 & 106",
-	"description": "Election Day!",
-	"report": "If you have not yet voted NO on Props 105 and 106, voting centers are open today from 9am-7pm. Take action-Vote NO. Click on the link to find a voting center location.",
-	"date": "2019-08-27",
-	"imageURL": "https://live.staticflickr.com/65535/48464132861_57e43a9259_z.jpg",
-	"link": "https://www.phoenix.gov/cityclerksite/Documents/VotingCenterLocationswithList_8x11_AUG2019.pdf",
-	"phone": ""
-}, {
 	"title": "Debate Watch Party",
 	"description": "Join AZ Dems!",
 	"report": "Thursday, Sept 12th: 6pm-8pm. Join us to watch the debate and share the energy! Get event details and lick on the link for more info.",
@@ -111,10 +79,18 @@
 	"link": "https://www.facebook.com/events/496564074528965/",
 	"phone": ""
 }, {
+	 "title": "Voter Registration Training",
+	"description": "Learn!",
+	"report": "Join us on 9/19 at 6:30pm to learn how to register voters in our communities! We will provide the training you need in a fun way. Food and beverages will be provided. Bring friends and neighbors to learn! Click on ghe link.",
+	"date": "2019-09-10",
+	"imageURL": "https://farm2.staticflickr.com/1845/44117768891_8ec850e055.jpg",
+	"link": "https://www.facebook.com/events/2298635386879563/",
+	"phone": ""
+}, {
 	"title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2019 and 2020. Open the App and you will have your idea for the week. And, the ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2019-09-03",
+	"date": "2019-09-10",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
