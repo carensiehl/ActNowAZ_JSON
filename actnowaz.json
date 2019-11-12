@@ -39,22 +39,6 @@
 	"link": "https://votefwd.org",
 	"phone": ""
 }, {
-	"title": " Vote YES on Bonds",
-	"description": "Ballots mailed!",
-	"report": "Ballots mailed for Madison Elementary School District, Paradise Valley Unified School District, and Scottsdale Unified School District's Bond and Override elections? It's time to vote YES and mail by Wed, Oct 30. If you do not mail your ballot by this date, please check the link for dropoff locations available through Nov 5.",
-	"date": "2019-10-22",
-	"imageURL": "https://farm5.staticflickr.com/4815/43924542130_3754383c6a.jpg",
-	"link": "https://recorder.maricopa.gov/pdf/ballotdropoff.pdf",
-	"phone": ""
-}, {
-	"title": "ActNowAZ Event",
-	"description": "Energize! Incredible Speakers!",
-	"report": "Join us on Nov 2nd, 3-5pm to hear from Mayor Gallego, Mark Kelly's campaign, Greg Stanton's campaign, Kelli Butler, Aaron Lieberman, Raquel Teran, Outlaw Dirty Money, ADLCC, Vote AZ. Email caren.siehl@me.com to RSVP and for event details. Winning in 2020 start NOW!",
-	"date": "2019-10-29",
-	"imageURL": "https://farm2.staticflickr.com/1826/41480642920_a8bfa15aca.jpg",
-	"link": "",
-	"phone": ""
-}, {
 	"title": "Support AZ DLCC",
 	"description": "Help elect Democrats in the AZ House and Senate.",
 	"report": "Help Democrats gain the majority in 2020. Republicans control both chambers of the AZ state legislature, but we're here to change that. Click on the link above and sign up today. Join us-The work for 2020 has already begun.",
@@ -63,10 +47,18 @@
 	"link": "https://adlcc.com/",
 	"phone": ""
 }, {
+	"title": "Outlaw Dirty Money",
+	"description": "Sign a petition.",
+	"report": "Outlaw Dirty Money is back. We're working to ensure all Arizonans have a right to know who is paying to influence our elections. We need your help to get on the ballot in 2020! Go to this website to find where you can sign a petition. And, can you take a petition to gather signatures?",
+	"date": "2019-11-12",
+	"imageURL": "https://farm2.staticflickr.com/1845/44117768891_8ec850e055.jpg",
+	"link": "https://outlawdirtymoney.com/sign-the-petition/",
+	"phone": ""
+}, {
 	"title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2019 and 2020. Open the App and you will have your idea for the week. And, the ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2019-11-05",
+	"date": "2019-11-12",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
