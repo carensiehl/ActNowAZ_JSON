@@ -23,14 +23,6 @@
 	"link": "https://adlcc.com/",
 	"phone": ""
 }, {
-	"title": "Outlaw Dirty Money",
-	"description": "Sign a petition.",
-	"report": "Outlaw Dirty Money is back. We're working to ensure all Arizonans have a right to know who is paying to influence our elections. We need your help to get on the ballot in 2020! Go to this website to find where you can sign a petition. And, can you take a petition to gather signatures?",
-	"date": "2019-11-12",
-	"imageURL": "https://farm2.staticflickr.com/1845/44117768891_8ec850e055.jpg",
-	"link": "https://outlawdirtymoney.com/sign-the-petition/",
-	"phone": ""
-}, {
 	"title": "Request to Speak",
 	"description": "Join Request to Speak.",
         "report": "2020 Legislative Session!Are you signed up for the Request to Speak (RTS; and you don't really have to speak!) system and Civic Engagement Beyond Voting's (CEBV) newsletter?Learn how to use RTS to weigh in on bills, and receive the weekly newsletter. Click on the link above.",
@@ -71,10 +63,18 @@
 	"link": "https://markkelly.com/",
 	"phone": ""
 }, {
+	"title": "CD6 Dem Debate",
+	"description": "Let's defeat Schweikert",
+	"report": "Five candidates vying for the Dem nomination to run against Schweikert are debating on Tuesday March 3 at 6:30pm.Join us to learn and show support in this critical race.",
+	"date": "2019-03-02",
+	"imageURL": "https://farm2.staticflickr.com/1845/44117768891_8ec850e055.jpg",
+	"link": "https://www.eventbrite.com/e/cd6-democratic-candidates-debate-tickets-90474817615?aff=ebdssbeac",
+	"phone": ""
+}, {
 	"title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2019 and 2020. Open the App and you will have your idea for the week. And, the ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2020-02-18",
+	"date": "2020-03-02",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
