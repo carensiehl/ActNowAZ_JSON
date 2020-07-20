@@ -7,14 +7,6 @@
 	"link": "https://azredistricting.org/districtlocator/",
 	"phone": ""
 }, {
-	"title": "Register Voters",
-	"description": "Help Vote Forward",
-	"report": "Help register new voters from your home! All you need is a computer, printer, envelopes, stamps and a willingness to spend some time to make a difference. Click on the link and help Vote Forward with their proven approach to getting more Democrats registered and voting!",
-	"date": "2019-08-20",
-	"imageURL": "https://live.staticflickr.com/65535/48570967007_d7e8fbcc65_z.jpg",
-	"link": "https://votefwd.org",
-	"phone": ""
-}, {
 	"title": "Support AZ DLCC",
 	"description": "Help elect Democrats in the AZ House and Senate.",
 	"report": "Help Democrats gain the majority in 2020. Republicans control both chambers of the AZ state legislature, but we're here to change that. Click on the link above and sign up today. Join us-The work for 2020 has already begun.",
@@ -95,10 +87,18 @@
 	"link": "https://www.mobilize.us/arizonald28/event/287898/",
 	"phone": ""
 }, {
+	"title": "Text Voters",
+	"description": "Commit Democrats",
+	"report": "Join us via Zoom on Sun, July 26th at 1pm to send text messages to Dems in LD 28. We'll ask them for a pledge to vote for Christine Marsh, Aaron Lieberman, and Kelli Butler! Relational organizing is one of the most effective ways to earn votes for our candidates. Our goal is to get 100 pledges to vote; hope you can help us meet this goal!",
+	"date": "2020-07-21",
+	"imageURL": "https://live.staticflickr.com/65535/50133474953_2828108c55.jpg",
+	"link": "https://www.mobilize.us/arizonald28/event/290257/",
+	"phone": ""
+}, {
 	"title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2020. Open the App and you will have your action for the week. And, the actions and ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2020-07-14",
+	"date": "2020-07-21",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
