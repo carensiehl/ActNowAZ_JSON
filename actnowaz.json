@@ -23,14 +23,6 @@
 	"link":"https://www.cebv.us",
 	"phone": ""
 }, {
-	"title": "Get Dems on the Ballot",
-	"description": "Sign today!",
-	"report": "We have an incredible team of AZ Democrats running in the 2020 elections and they need our help to meet petition signature requirements. The process is simple and will only take a few minutes of your time. Click on the link and sign multiple petitions to support Dems.",
-	"date": "2020-01-21",
-	"imageURL": "https://farm2.staticflickr.com/1826/41480642920_a8bfa15aca.jpg",
-	"link": "https://apps.azsos.gov/equal/?utm_medium=email&utm_source=azdemocrats&utm_content=3+-+HELP+ARIZONA+DEMOCRATS+GET+ON+THE+BALLOT&utm_campaign=em191120ballot&source=em191120ballot",
-	"phone": ""
-}, {
 	"title": "Register Voters",
 	"description": "Help Vote Forward",
 	"report": "Help register new voters from your home! All you need is a computer, printer, envelopes, stamps and a willingness to spend some time to make a difference. Click on the link and help Vote Forward with their proven approach to getting more Democrats registered and voting!",
@@ -83,8 +75,8 @@
 	"description": "Help Democrats",
 	"report": "Help us text voters in LD28 to sign them up for the mail-in ballot! Sign up here to join us for training and text bank from 2-3 pm on Sunday, July 19th or 4-5pm on Tuesday, July 21st. Help turn AZ Blue!",
 	"date": "2020-07-14",
-	"imageURL": "https://live.staticflickr.com/65535/50110246006_49037a3ddc.jpg",
-	"link": "https://www.mobilize.us/arizonald28/event/287898/",
+	"imageURL": "",
+	"link": "https://secure.actblue.com/donate/take28team",
 	"phone": ""
 }, {
 	"title": "Text Voters",
@@ -95,10 +87,18 @@
 	"link": "https://www.mobilize.us/arizonald28/event/290257/",
 	"phone": ""
 }, {
+	"title": "Be part of Hamilton!",
+	"description": "#Take 28 with the Cast!",
+	"report": "Join us on Saturday, August 8th @ 5:30pm (MST) for a live performance and live Q&A with the reigning Broadway cast of Hamilto!Calls and/or donations made between July 25th through August 4th will get you a ticket to this big event! Don't throw away your shot to join in on the fun!",
+	"date": "2020-07-28",
+	"imageURL": "https://live.staticflickr.com/65535/50162348298_748d401fb3.jpg",
+	"link": "https://www.mobilize.us/arizonald28/event/282562/",
+	"phone": ""
+}, {
 	"title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2020. Open the App and you will have your action for the week. And, the actions and ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2020-07-21",
+	"date": "2020-07-28",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
