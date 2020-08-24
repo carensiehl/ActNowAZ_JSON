@@ -15,14 +15,6 @@
 	"link": "https://adlcc.com/",
 	"phone": ""
 }, {
-	"title": "Support Mark Kelly",
-	"description": "Mark Kelly needs our support.",
-	"report": "We will send a second Democratic Senator to Congress when we help to elect Mark Kelly. Give money, give time, give support. Click on the link above.",
-	"date": "2020-02-11",
-	"imageURL": "https://live.staticflickr.com/65535/47797076052_d5da8e6de4_z.jpg",
-	"link": "https://markkelly.com/",
-	"phone": ""
-}, {
 	"title": "Write Postcards",
 	"description": "Connect from home!",
 	"report": "We are asking volunteers to commit to writing at least 50 postcards. We provide the postcards, script, and you provide the stamps. We are specifically writing the postcards to remind Dems to get on the early Voter List.Click on the link or email Ephraim at einfante@azdem.org to get started!",
@@ -37,14 +29,6 @@
 	"date": "2020-06-30",
 	"imageURL": "https://live.staticflickr.com/65535/50060628132_77c13c13cc.jpg",
 	"link": "https://forms.gle/T7DFFjdH2YetkSCq9",
-	"phone": ""
-}, {
-	"title": "Fund Raise with Hamilton!",
-	"description": "Take LD 28 with the Cast",
-	"report": "Join Team 28 for a special fundraiser with the current cast of Hamilton on Broadway. You can donate OR call your way in to join the fun. All details can be found on the link above.",
-	"date": "2020-08-04",
-	"imageURL": "https://live.staticflickr.com/65535/50162348298_748d401fb3.jpg",
-	"link": "https://www.mobilize.us/arizonald28/event/292722/",
 	"phone": ""
 }, {
 	"title": "Help Elect Dems",
@@ -63,10 +47,18 @@
 	"link": " https://www.mobilize.us/arizonald28/event/305330/",
 	"phone": ""
 }, {
+	"title": "Support Mark Kelly",
+	"description": "Be Part of a Virtual Reception",
+	"report": "Join us for a virtual reception with Mark Kelly Democratic candidate for U.S Senate on Tues, Sept 8th, 5:00-6:00 PM AZ Time. We will send a second Democratic Senator to Congress when we help to elect Mark Kelly. Click on the link above.",
+	"date": "2020-08-25",
+	"imageURL": "https://live.staticflickr.com/65535/47797076052_d5da8e6de4_z.jpg",
+	"link": "https://secure.actblue.com/donate/az-virtual090820?fbclid=IwAR2Fks71kIQSYRGRaiCqK7xfGd2Frh9YxTidDyy8z1VP5NZJztGWs8-gQHw",
+	"phone": ""
+}, {
 	"title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2020. Open the App and you will have your action for the week. And, the actions and ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2020-08-18",
+	"date": "2020-08-25",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
