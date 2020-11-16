@@ -23,14 +23,6 @@
 	"link": "https://docs.google.com/forms/d/e/1FAIpQLSfsUMYmoNyq-2Zwj4McVeAkvVlCCsUnTimRtaawE-aaQ796WA/viewform",
 	"phone": ""
 }, {
-	"title": "Put Up Yard Signs",
-	"description": "Show Your Support",
-	"report": "Excited to show your neighbors how much you support State Senate candidate Christine Marsh, Rep. Aaron Lieberman, and Rep. Kelli Butler? Fill out this form to order your own yard signs for 2020! Want to help deliver and install signs? Contact lrodriguez@azdem.org!",
-	"date": "2020-06-30",
-	"imageURL": "https://live.staticflickr.com/65535/50060628132_77c13c13cc.jpg",
-	"link": "https://forms.gle/T7DFFjdH2YetkSCq9",
-	"phone": ""
-}, {
 	"title": "Help Elect Dems",
 	"description": "Phone bank with LD28",
 	"report": "Join us every Saturday at 10am! Our launches begin with updates from Rep. Butler, Rep. Lieberman, and 2016 AZ Teacher of the Year Christine Marsh and also include training for those who need it -- no prior experience is required. This is going to be an incredibly close election and we need you. Can't wait to see you Saturday morning",
@@ -55,30 +47,6 @@
 	"link": "https://secure.actblue.com/donate/az-virtual090820?fbclid=IwAR2Fks71kIQSYRGRaiCqK7xfGd2Frh9YxTidDyy8z1VP5NZJztGWs8-gQHw",
 	"phone": ""
 }, {
-	"title": "Be a Poll Worker",
-	"description": "Help Polling Places on Nov 3rd",
-	"report": "Our democracy needs you-sign up to be a poll worker on Nov 3rd. Poll workers are essential to our deomcracy. They play a critical role in ensuring that our elections run smoothly. Click on the link above to begin the process.",
-	"date": "2020-09-01",
-	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
-	"link": "https://azsos.gov/pollworker",
-	"phone": ""
-}, {
-	"title": "Support Mayor Gallego",
-	"description": "Be Part of a Virtual Reception",
-	"report": "Join PHX Mayor Kate Gallego on Mon, Oct 26th, 5:30-6:30pm with special guest Charlene Fernandez, Dem Leader of AZ House. RSVP to Annie Mazzarella at AnnieM@KateGallego.com and she will provide you with a Zoom link. If you can't attend, donate at the link above.",
-	"date": "2020-10-20",
-	"imageURL": "https://live.staticflickr.com/65535/50426931978_792c4ac250.jpg",
-	"link": "https://secure.actblue.com/donate/gallego-10-26",
-	"phone": ""
-}, {
-	"title": "Push to the Polls",
-	"description": "Ballot Chase Phone Bank",
-	"report": "Join us for our final push to make sure our voters get their ballot cast and counted! Register here to help with our Push to the Polls Virtual Phone Banking from October 31st to November 3rd. All necessary training will be provided at the launch and no prior experience is necessary!",
-	"date": "2020-10-27",
-	"imageURL": "https://live.staticflickr.com/65535/50514517913_dd10c2b21b.jpg",
-	"link": "https://www.mobilize.us/arizonald28/event/337462/",
-	"phone": "" 
-}, {
 	"title": "VOTE",
 	"description": "Help to GOTV",
 	"report": "Call your family and friends and help them to vote the Democratic ballot. Do they need a ride to the polls? Help finding a polling place? Every VOTE matters in this election!",
@@ -88,17 +56,25 @@
 	"phone": ""
 }, {
 	"title": "Celebrate!",
-	"description": "And we will work for 20222",
+	"description": "And we will work for 2022",
 	"report": "Celebrate! Even as the votes in AZ continue to be counted-we have made great progress! There is work ahead for 2022, but for today...celebrate our wins!",
 	"date": "2020-11-10",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
 }, {
+	"title": "Help GA Senate races",
+	"description": "Write Postcards and Letters!",
+	"report": "Join Vote Forward in writing to GA voters. Our work is not done! We need your help writing letters to voters in Georgia before the US Senate runoff on January 5. Click on the link to get started!",
+	"date": "2020-11-17",
+	"imageURL": "https://live.staticflickr.com/65535/50611509451_1c77ef7e83.jpg",
+	"link": "https://votefwd.org/?utm_content=buffer6a02a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer&fbclid=IwAR1D5ZbgRiK0FMxddAFDpObhCc7oHjzdNY4emDRLdYIkPWfD94vQBTpWBwA",
+	"phone": ""
+}, {
 	"title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2020. Open the App and you will have your action for the week. And, the actions and ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2020-11-10",
+	"date": "2020-11-17",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
