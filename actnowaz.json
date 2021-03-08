@@ -63,22 +63,6 @@
 	"link":"https://www.facebook.com/events/410862543363057",
 	"phone": ""
 }, {
-	"title": "Virtual Gala",
-	"description": "Honoring Our 3 Women Mayors",
-	"report": "Join us for a virtual fundraiser to kickstart the creation of a sexual assault healing center to empower survivors and honor 3 women mayors for their commitment to public health and safety during COVID.",
-	"date": "2021-01-19",
-	"imageURL": "https://live.staticflickr.com/65535/50849378521_f785dc1f7a_b.jpg",
-	"link": "https://one.bidpal.net/ncjw/welcome",
-	"phone": ""
-}, {
-	"title": "Help Elect Stark and Ansari",
-	"description": "Phone bank for PHX City Council",
-	"report": "Maricopa County Democratic Party needs help phone banking for the March 9th PHX City Council run-off election! Councilwoman Deb Stark is running for re-election in District 3 against a far right opponent and Yassamin Ansari is running for election in District 7. Sign up via the link.",
-	"date": "2021-01-26",
-	"imageURL": "https://live.staticflickr.com/65535/50874841101_bf03487e81_z.jpg",
-	"link": "https://maricopadems.org/phoenix-run-offs/",
-	"phone": ""
-}, {
 	"title": "Help Elect Stark",
 	"description": "Lit drop for PHX City Council",
 	"report": "Join Councilwoman Stark and special guest Mayor Kate Gallego for a contactless lit drop on Sat, Feb 6th! We will be gathering at 10am at Mercury Mine Park (3325 E. Mountain View Road, Phoenix 85028). Mark your calendars now",
@@ -118,11 +102,19 @@
 	"imageURL": "https://farm2.staticflickr.com/1845/44117768891_8ec850e055.jpg",
 	"link": "https://azredistricting.org/districtlocator/",
 	"phone": ""
+}, {
+	"title": "Help Elect Stark and Ansari",
+	"description": "Phone bank for PHX City Council",
+	"report": "Maricopa County Democratic Party needs help phone banking for the March 9th PHX City Council run-off election! Councilwoman Deb Stark is running for re-election in District 3 against a far right opponent and Yassamin Ansari is running for election in District 7. Sign up via the link.",
+	"date": "2021-03-09",
+	"imageURL": "https://live.staticflickr.com/65535/50874841101_bf03487e81_z.jpg",
+	"link": "https://maricopadems.org/phoenix-run-offs/",
+	"phone": ""
 }, {	
 	"title": "ActNowAZ",
 	"description": "Click here for a simple explanation of how the ActNowAZ App works!",
 	"report": "Every Tuesday, your iPhone or iPad will ping with a notification of a specific way that we can help to deliver for Democrats in 2020. Open the App and you will have your action for the week. And, the actions and ideas for previous weeks will remain open, so check them out, too. Join us and make your voice heard and your actions matter.",
-	"date": "2021-03-02",
+	"date": "2021-03-09",
 	"imageURL": "https://farm2.staticflickr.com/1893/30249457198_c9fb6123cf.jpg",
 	"link": "",
 	"phone": ""
